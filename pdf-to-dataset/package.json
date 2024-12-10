@@ -1,0 +1,25 @@
+{
+  "name": "pdf-parsing-for-rag-llama",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon main.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@persian-tools/persian-tools": "^3.5.2",
+    "@types/node": "^22.9.0",
+    "nodemon": "^3.1.7",
+    "pdf-officegen": "^3.0.0",
+    "pdf-parse": "^1.1.1",
+    "sharp": "^0.33.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.3"
+  },
+  "devDependencies": {
+    "@types/pdf-parse": "^1.1.4"
+  }
+}

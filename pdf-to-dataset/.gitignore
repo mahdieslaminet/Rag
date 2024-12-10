@@ -1,0 +1,4 @@
+/node_modules
+/dataset/**/*.pdf
+/dataset/**/*.png
+/dataset/**/*.txt
